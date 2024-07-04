@@ -29,6 +29,28 @@ export const personalInfo = {
     phone: '+91 8577868240',
   };
 
+  export const data = {
+    programming: [
+      { name: "WordPress", percentage: 95 },
+      { name: "HTML & CSS", percentage: 80 },
+      { name: "Figma & XD", percentage: 90 },
+    ],
+    languages: [
+      { name: "English", percentage: 95 },
+      { name: "French", percentage: 85 },
+      { name: "Arabic", percentage: 80 },
+    ],
+    services: [
+      { name: "Web Development", description: "Morbi nullam sit dolor diam aenean gravida. Eget commodo blandit volutpat quis tristique risus, sed. Sed et." },
+      { name: "App Development", description: "Morbi nullam sit dolor diam aenean gravida. Eget commodo blandit volutpat quis tristique risus, sed. Sed et." },
+      { name: "Digital Marketing", description: "Morbi nullam sit dolor diam aenean gravida. Eget commodo blandit volutpat quis tristique risus, sed. Sed et." },
+      { name: "UI/UX Design", description: "Morbi nullam sit dolor diam aenean gravida. Eget commodo blandit volutpat quis tristique risus, sed. Sed et." },
+      { name: "Animation", description: "Morbi nullam sit dolor diam aenean gravida. Eget commodo blandit volutpat quis tristique risus, sed. Sed et." },
+      { name: "Content Writing", description: "Morbi nullam sit dolor diam aenean gravida. Eget commodo blandit volutpat quis tristique risus, sed. Sed et." },
+    ],
+  }
+  
+
   
 
   
